@@ -5,7 +5,7 @@
     exit 1
 }
 # Install mpg123 and git
-apt-get install mpg123 git
+apt-get install mpg123 git -y
 
 # Clone boetheia
 cd /home/pi/
