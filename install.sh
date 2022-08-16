@@ -5,6 +5,7 @@
     exit 1
 }
 # Install mpg123 and git
+apt-get update
 apt-get install mpg123 git -y
 
 # Clone boetheia
