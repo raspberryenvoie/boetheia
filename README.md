@@ -1,5 +1,10 @@
 <h1 align="center">Boetheia</h1>
-<p>Calling system running on a Raspberry Pi for disabled people unable to speak and only able to move their head.</p>
+<h3 align="center">Calling system running on a Raspberry Pi for disabled people unable to speak and only able to move their head.</h3>
+
+---------
+
+<p align="center">Want to see pictures of my installation of boetheia? Click <a href="https://gist.githubusercontent.com/raspberryenvoie/a26dac779fb531d5d1778ba412e44f94/raw/f56f65f10849b30debbe52746e3644caeb7d4073/boetheia%2520outside.jpg">here</a> and <a href="https://gist.githubusercontent.com/raspberryenvoie/a26dac779fb531d5d1778ba412e44f94/raw/f56f65f10849b30debbe52746e3644caeb7d4073/boetheia%2520inside.jpg">here</a>.
+</p>
 
 # How does it work?
 1. A laser is fixed to the disabled person's head.
@@ -39,6 +44,9 @@ If you've got an AO pin don't connect it to the Raspberry Pi.
 Connect the negative end to any ground pin of the Raspberry Pi.\
 Connect the positive end to GPIO 17.
 6. Now head to the [installation section](https://github.com/raspberryenvoie/boetheia#installation) !
+
+<img width=400 alt="Diagram" src="https://gist.github.com/raspberryenvoie/a26dac779fb531d5d1778ba412e44f94/raw/5ce822a2f9c212888e9aa846394f64fcc4a713fc/boetheia%2520diagram.jpg"> \
+Connection Diagram
 
 ## Installation
 1. Set up Raspberry Pi OS : follow the instructions in the [install and set up Raspberry Pi OS section](https://github.com/raspberryenvoie/piRa1n/wiki/Install-piRa1n-on-a-Raspberry-Pi-4#1-install-and-set-up-raspberry-pi-os)
