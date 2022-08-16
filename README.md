@@ -43,7 +43,7 @@ Connect the positive end to GPIO 17.
 1. Set up Raspberry Pi OS : follow the instructions in the [install and set up Raspberry Pi OS section](https://github.com/raspberryenvoie/piRa1n/wiki/Install-piRa1n-on-a-Raspberry-Pi-4#1-install-and-set-up-raspberry-pi-os)
 2. Copy and paste the following command and press the enter key.
 ```
-curl -sk https://raw.githubusercontent.com/raspberryenvoie/boetheia/main/install.sh | sudo sh
+curl -s https://raw.githubusercontent.com/raspberryenvoie/boetheia/main/install.sh | sudo sh
 ```
 4. If you don't want to use an LED refer to the [settings section](https://github.com/raspberryenvoie/boetheia#parts-list)
 3. Type ` sudo reboot now` followed by the enter key to reboot the Raspberry Pi.
