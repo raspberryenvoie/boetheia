@@ -11,6 +11,7 @@
 - a Raspberry Pi (any model) with an SD or MicroSD card depending on the model
 - Speakers
 - a Light Dependent Resistor (LDR) sensor module
+- At least 3 female to female jumper wires
 - a laser fixed to the person's head. It can be attached using wiring ties to glasses or a hair clip.
 - Optional: an LED
 
