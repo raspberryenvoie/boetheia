@@ -1,0 +1,10 @@
+[Unit]
+Description=Boetheia
+
+[Service]
+User=pi
+ExecStart=/home/pi/boetheia/boetheia.py
+
+[Install]
+WantedBy=default.target
+
